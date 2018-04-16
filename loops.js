@@ -21,6 +21,6 @@ function maybeTrue() {
 }
 
 function doWhileLoop(array) {
-  do 
+  do {
   while (maybeTrue());
 }
